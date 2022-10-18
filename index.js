@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+function suma(n1,n2,n3){
+    let result = n1 + n2 +n3;
+    return result;
+}
+>>>>>>> rama2
 function resta(n1,n2){
     let result = n1 - n2;
     return result;
